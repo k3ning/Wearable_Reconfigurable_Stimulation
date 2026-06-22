@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]D:\PD_sti_prj\sti_prj_top\STI_dac_v1.2\STI_dac_v1.2.sdk\FSBL\Debug\FSBL.elf
+	D:\PD_sti_prj\sti_prj_top\STI_dac_v1.2\STI_dac_v1.2.sdk\system_wrapper_hw_platform_0\system_wrapper.bit
+	D:\PD_sti_prj\sti_prj_top\STI_dac_v1.2\STI_dac_v1.2.sdk\user_sti\Debug\user_sti.elf
+}

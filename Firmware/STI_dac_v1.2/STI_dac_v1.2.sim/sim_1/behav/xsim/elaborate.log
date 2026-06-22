@@ -1,0 +1,7 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: E:/ProgramFile/Xilinx/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto 83856c614fc44d58b7a798709b3de221 --incr --debug typical --relax --mt 2 -L axi_infrastructure_v1_1_0 -L axi_vip_v1_1_4 -L processing_system7_vip_v1_0_6 -L xil_defaultlib -L lib_cdc_v1_0_2 -L proc_sys_reset_v5_0_13 -L generic_baseblocks_v2_1_0 -L fifo_generator_v13_2_3 -L axi_data_fifo_v2_1_17 -L axi_register_slice_v2_1_18 -L axi_protocol_converter_v2_1_18 -L xilinx_vip -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot system_wrapper_behav xil_defaultlib.system_wrapper xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-3180] cannot find port 'SCLK' on this module [D:/PD_sti_prj/sti_prj_top/STI_dac_v1.2/STI_dac_v1.2.srcs/sources_1/bd/system/hdl/system_wrapper.v:261]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.
